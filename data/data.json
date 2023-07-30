@@ -1,0 +1,34 @@
+{
+    "pots": [
+        {
+            "size": "biggest",
+            "shape": "round",
+            "id": 1
+        },
+        {
+            "size": "big",
+            "shape": "round",
+            "id": 2
+        },
+        {
+            "size": "small",
+            "shape": "round",
+            "id": 3
+        },
+        {
+            "size": "big",
+            "shape": "rectangular",
+            "id": 4
+        },
+        {
+            "size": "big",
+            "shape": "rectangular",
+            "id": 5
+        },
+        {
+            "size": "medium",
+            "shape": "rectangular",
+            "id": 6
+        }
+    ]
+}
